@@ -6,5 +6,8 @@ This is a MERN stack application to browse and save books by title, author, genr
 ## Usage
 To use the application, search for any book by title, author, genre, etc. After searching, a list of books including the title, an image and description will population. If the user wishes to save a book to their list, they can sign up or login then navigate to the book search and select the save option.
 
+## Installation
+To install the application locally, ensure that Node.js and MongoDB installed, then clone the repository from Github and run the installation script ```npm run install``` followed the start script ```npm run develop```. 
+
 ## Questions
 For additional questions, find me on [github](https://github.com/vchan852)
